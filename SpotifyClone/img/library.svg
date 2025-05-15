@@ -1,0 +1,16 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#191414" />
+
+  <!-- Create Playlist Button -->
+  <a href="#" target="_blank">
+    <rect x="20" y="40" width="160" height="40" rx="8" ry="8" fill="#1DB954" />
+    <text x="100" y="65" font-size="14" text-anchor="middle" fill="white" font-family="Arial">Create Playlist</text>
+  </a>
+
+  <!-- Browse Podcasts Button -->
+  <a href="/genre/podcasts-web" target="_blank">
+    <rect x="20" y="100" width="180" height="40" rx="8" ry="8" fill="#1DB954" />
+    <text x="110" y="125" font-size="14" text-anchor="middle" fill="white" font-family="Arial">Browse Podcasts</text>
+  </a>
+</svg>

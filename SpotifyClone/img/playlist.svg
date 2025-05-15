@@ -1,0 +1,21 @@
+<svg width="360" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="360" height="600" fill="#121212" rx="10" />
+
+  <!-- Header: Your Library -->
+  <text x="20" y="40" font-family="Arial" font-size="20" fill="white" font-weight="bold">Your Library</text>
+
+  <!-- Create playlist button -->
+  <rect x="20" y="60" width="200" height="30" fill="#1db954" rx="5" />
+  <text x="30" y="80" font-family="Arial" font-size="14" fill="white">Create Playlist</text>
+
+  <!-- Podcast section -->
+  <text x="20" y="120" font-family="Arial" font-size="16" fill="white" font-weight="bold">Find Podcasts</text>
+  <text x="20" y="140" font-family="Arial" font-size="12" fill="#b3b3b3">We'll keep you updated</text>
+  <rect x="20" y="160" width="160" height="25" fill="#1db954" rx="5" />
+  <text x="30" y="178" font-family="Arial" font-size="12" fill="white">Browse Podcasts</text>
+
+  <!-- Footer Links -->
+  <text x="20" y="560" font-family="Arial" font-size="10" fill="#b3b3b3">Legal | Privacy | Cookies</text>
+  <text x="20" y="580" font-family="Arial" font-size="10" fill="#b3b3b3">Accessibility | Ads</text>
+</svg>
